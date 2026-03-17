@@ -7,3 +7,5 @@ I will be recording everyday of my java learning along with if any assignments I
 | Week | Date | Topic | 📚Assignments | ✍️Blog Posts |
 |------|------|-------|---------------|--------------|
 | 00   | 13/03/26| Conditionals |  --- | --- | 
+| 00   | 14/03/26| Functions, Function chaining, function overloading, Recursion | --- | ---  |
+| 00   | 15/03/26| Classes, Objects, New keyword | --- | ---|
