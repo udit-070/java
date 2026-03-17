@@ -29,7 +29,7 @@ public class basicOOP {
             System.out.println("Attendance is marked by " +name);
         }
         void printName(){
-            System.out.println("Hi! My name is " + name + " I am from department  " +dept);
+            System.out.println("Hi! My name is " + name + " I am from department " +dept);
         }
     }
 }
