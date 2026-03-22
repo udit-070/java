@@ -4,10 +4,10 @@ public class constructor1 {
     public static void main(String[] args) {
      
        Student s1 = new Student();
-       s1.name = "Aditya";
+       s1.name = "Udit";
        s1.age = 28;
        s1.rollNumber = 101;
-       s1.college = "IIT Guwahati"; 
+       s1.college = "IGIT Sarang"; 
 
        // Constructors --> To create an Object
 
