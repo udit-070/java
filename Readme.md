@@ -12,3 +12,4 @@ I will be recording everyday of my java learning along with if any assignments I
 | 01   | 17/03/26| Constructors, Chaining of Constructors                         | --- | ---|
 | 01   | 22/03/26| Call by value and by reference, Shallow and Deep copy          | --- | --- |
 | 02   | 28/03/26| Static and Final keyword, Why main fn is static                | --- | --- |
+| 02   | 31/03/26| Encapsulation and Inheritence , SUPER keyword                  | --- | --- | 
