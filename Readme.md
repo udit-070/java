@@ -15,3 +15,4 @@ I will be recording everyday of my java learning along with if any assignments I
 | 02   | 31/03/26| Encapsulation and Inheritence , SUPER keyword                  | --- | --- | 
 | 02   | 03/04/26| Abstraction and polymorphism                                   | --- | --- | 
 | 03   | 06/04/26| Autoboxing, Unboxing and POJO Classes                          | --- | --- |
+| 04   | 15/04/26| Nested Classes                                                 | --- | --- |
