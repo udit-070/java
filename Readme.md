@@ -18,3 +18,5 @@ I will be recording everyday of my java learning along with if any assignments I
 | 04   | 15/04/26| Nested Classes                                                 | --- | --- |
 | 05   | 21/04/26| Object Class - The Parent of all classes                       | --- | --- |
 | 05   | 23/04/26| Interfaces Deep dive and comparison with abstract classes      | --- | --- |
+| 05   | 24/04/26| Strings and String Pool in Java                                | --- | --- |
+
