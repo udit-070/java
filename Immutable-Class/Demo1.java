@@ -11,6 +11,8 @@ public class Demo1 {
         System.out.println(s1.getCollege().name); // VSSUT 
 
         // Here you can see that despite of making  the variable collge private and final in student class, whenever we change the value of college from College class it changes its value. So the immutable class is not so immutable after all.
+
+        // This exact phenomenon is called "Shallow copy". 
     }
 }
 

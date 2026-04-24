@@ -16,3 +16,5 @@ I will be recording everyday of my java learning along with if any assignments I
 | 02   | 03/04/26| Abstraction and polymorphism                                   | --- | --- | 
 | 03   | 06/04/26| Autoboxing, Unboxing and POJO Classes                          | --- | --- |
 | 04   | 15/04/26| Nested Classes                                                 | --- | --- |
+| 05   | 21/04/26| Object Class - The Parent of all classes                       | --- | --- |
+| 05   | 23/04/26| Interfaces Deep dive and comparison with abstract classes      | --- | --- |
