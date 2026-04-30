@@ -8,6 +8,6 @@ public class Demo1 {
         list.add("Hello");
         list.add("World");
         
-
+        // The problem is solved using Generics
     }
 }
